@@ -1,6 +1,6 @@
 # remediation-study
-This repository contains the script for the paper submitted to ISSTA25 named "Folk Wisdom: An Empirical Study on Remediation
-of Security Issue for Open-source Software"
+This repository contains the script for the paper submitted to ISSTA25 named "Fixing Outside the Box: Uncovering Tactics for Open-Source
+Security Issue Management"
 
 ## Usage of scripts
 ### Environment
