@@ -2,6 +2,9 @@
 This repository contains the script for the paper submitted to ISSTA25 named "Fixing Outside the Box: Uncovering Tactics for Open-Source
 Security Issue Management"
 
+## Supplementary Figures
+
+
 ## Usage of scripts
 ### Environment
 Setup the environment by running
@@ -25,7 +28,7 @@ Run the `entry_data.py` to collect issues and repositories from GitHub via GitHu
 ```
 python entry_data.py
 ```
-* **For specific functions with documentations please refer to `entry_data.py`**
+* **For specific functions with documentation please refer to `entry_data.py`**
 
 
 Run the statistics scripts to generate the statistics for the paper by
