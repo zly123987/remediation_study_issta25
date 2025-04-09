@@ -5,9 +5,11 @@ Security Issue Management"
 ## Supplementary Figures
 ### Subcategories of Re-initializing
 ![Subcategories of Re-initializing](initialize_accept.drawio.png "Subcategories of Re-initializing")
+(Seeker = User, Provider = Maintainer)
 
 ### Subcategories of Adjusting Versions
 ![Subcategories of Adjusting Versions](upgrade_accept.drawio.png "Subcategories of Adjusting Versions")
+(Seeker = User, Provider = Maintainer)
 
 ### Violin Plot of Re-discussion Duration
 ![Violin Plot of Re-discussion Duration](reopen_rs.png "Violin Plot of Re-discussion Duration")
